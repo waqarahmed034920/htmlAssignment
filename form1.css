@@ -1,0 +1,174 @@
+.maindiv
+{
+    width: 1024px;
+    height: 986px;
+    background-color: cyan;
+}
+.nav
+{
+    width: 1024px;
+    height: 50px;
+    background-color: black;
+}
+
+nav
+{
+    margin-left: 877px;
+    float: left;
+}
+
+.heading
+{
+    width: 1024px;
+    height: 39px;
+}
+h1
+{
+    margin: 17px 0 0 371px ;
+}
+
+.heading2
+{
+    width: 1024px;
+    height: 26px;
+ 
+}
+
+.heading2 h1
+{ 
+    margin: 11px 0px 0px 293px ;
+    font-size: 20px;
+}
+
+.color
+{
+    width: 639px;
+    height: 759px;
+    background-color: white;
+    margin: 0 0 0 192px;
+}
+
+.form1
+{
+    width: 100px;
+    height: 100px;
+    margin: 0px 0 0 2px;
+}
+.Name
+{
+    padding: 15px 0 0 3px;
+    margin: 13px 0 0 297px;
+}
+
+.Email
+{
+    margin: 30px 0 0 299px;
+}
+
+.numbar
+{
+    margin: 30px 0 0 299px;
+}
+
+.name1
+{
+    margin: -137px 0px 0px 203px;
+    padding: 0px 0px 0px 0px;
+}
+
+.email1
+{
+    margin: -137px 0px 0px 203px;
+    padding: 0px 0px 0px 0px;
+}
+.email1 h4{
+    margin: 143px 0 0 2px;
+    float: left;
+}
+
+
+.number1
+{
+    margin: -137px 0px 0px 203px;
+    padding: 0px 0px 0px 0px;
+}
+ 
+.number1 h4
+{
+    margin: 194px 2px 1px -237px;
+    float: left;
+}
+
+
+
+
+.drop
+{
+    margin: 69px 0px 2px 260px;
+    float: left;
+}
+
+ .drop ul
+{
+list-style:none;		
+}
+
+.drop li
+{
+float:left;	
+position:relative;
+}
+
+.drop a 
+{
+display:block;
+width:137px;
+height:24px;
+text-decoration:none;	
+text-align:center;
+line-height:25px;
+border: 1px solid #000;
+
+}
+
+.drop ul ul
+{
+position:absolute;	
+visibility:hidden;	
+}
+
+.drop li:hover ul
+{ 
+visibility:visible;
+}
+
+
+.dropread
+{
+    margin: -43px 0px 1px 99px;
+    float: left;
+
+}
+
+
+.radio
+{
+    margin: 63px 0px 0px 49px;
+    float: left;
+}
+
+.radio1
+{
+    margin: -3px 0px 0px 0px;
+    float: left;
+}
+.radio2
+{
+    margin: 39px 0px -1px -75px;
+    float: left; 
+}
+.radio3
+{
+    margin: 80px 0px 0px -87px;
+    float: left;
+}
