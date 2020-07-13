@@ -57,8 +57,6 @@ border-bottom:3px solid #036;
 margin: 65px 0 0 256px;
 }
 
-
-
 .field {
   padding: 15px;
   
@@ -70,17 +68,20 @@ margin: 65px 0 0 256px;
   font-weight: bold;
   text-align: right;
 }
+
 .field1
 {
   display: inline-block;
   width: 40%;
   margin-left: 256px;
 }
+
 .heading1
 {
   padding-top: 20px;
   margin: -84px 0 0 6px;
 }
+
 .field5
 {
   display: inline-block;
@@ -99,9 +100,8 @@ margin: 65px 0 0 256px;
 .heading3
 {
   top: 499px;
-    position: absolute;
+  position: absolute;
 }
-
 
 .MsgBox
 {
