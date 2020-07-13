@@ -26,22 +26,36 @@ li a:hover {
   background-color: #111111;
 }
 
+.heading{
+  text-align: center;
+    font-size: 34px;
+}
+
 .main {
   position: relative;
   width: 70%;
   left: 15%;
-  height: 500px;
-  top: 100px;
+  height: 804px;
+  top: 3px;
   background-color: white;
 }
 
 .fieldHeading{
   padding: 15px;
   text-align: center;
-
-
 }
 
+.Btn
+{
+width:100px;	
+height:30px;
+background-color:#06F;
+color:#fff;
+border:none;
+border-radius:8px;
+border-bottom:3px solid #036;
+margin: 65px 0 0 256px;
+}
 
 
 
@@ -58,5 +72,41 @@ li a:hover {
 }
 .field1
 {
-  
+  display: inline-block;
+  width: 40%;
+  margin-left: 256px;
+}
+.heading1
+{
+  padding-top: 20px;
+  margin: -84px 0 0 6px;
+}
+.field5
+{
+  display: inline-block;
+  width: 40%;
+  margin-left: 256px;
+  margin-top: 75px;
+  position: absolute;
+}
+
+.heading2
+{
+  padding-top: 20px;
+  margin: 65px 0 0 6px; 
+}
+
+.heading3
+{
+  top: 499px;
+    position: absolute;
+}
+
+
+.MsgBox
+{
+  display: inline-block;
+  width: 40%;
+  margin-left: 262px;
+  margin-top: 75px;
 }

@@ -1,0 +1,133 @@
+body
+{
+    background-color:rgb(160, 139, 201);
+}
+.maindiv
+{
+    position: relative;
+  width: 70%;
+  left: 15%;
+  height: 1258px;
+  top: 3px;
+  background-color: rgb(48, 39, 63);;
+}
+.field {
+    padding: 15px;
+  }
+  
+  .fieldLabel{
+    display: inline-block;
+    width: 99%;
+    font-weight: bold;
+    /* text-align: right; */
+    color: #fff;
+    margin: -28px 0 0 25px;
+    top: 54px;
+    position: absolute;
+  }
+  #txtName
+  {
+    width: 542px;
+    margin: 29px 0 0 25px;
+  }
+
+
+  .fieldLabel1{
+    display: inline-block;
+       width: 99%;
+       font-weight: bold;
+       /* text-align: right; */
+       color: #fff;
+       margin: -28px 0 0 25px;
+       top: 132px;
+       position: absolute;
+     }
+
+     .fieldLabel2{
+        display: inline-block;
+           width: 99%;
+           font-weight: bold;
+           /* text-align: right; */
+           color: #fff;
+           margin: -28px 0 0 25px;
+           top: 211px;
+           position: absolute;
+         }
+
+         .fieldLabel3{
+            display: inline-block;
+               width: 99%;
+               font-weight: bold;
+               /* text-align: right; */
+               color: #fff;
+               margin: -28px 0 0 25px;
+               top: 288px;
+               position: absolute;
+             }
+
+             .fieldLabel4{
+              display: inline-block;
+                 width: 99%;
+                 font-weight: bold;
+                 /* text-align: right; */
+                 color: #fff;
+                 margin: -28px 0 0 25px;
+                 top: 367px;
+                 position: absolute;
+               }
+
+
+
+               div
+               {
+                 margin-top:2px;
+                 color: #fff;
+               }
+               
+               label{
+                 width: 120px;
+                 display: inline-block;
+                 color: #fff;
+               }
+               
+               input {
+                 width: 80px;
+               }
+
+               select
+               {
+                 margin: 50px;
+                 
+                 width: 538px;
+                 height: 27px;
+                 
+               }
+
+               .fieldLabel5{
+                display: inline-block;
+                   width: 99%;
+                   font-weight: bold;
+                   /* text-align: right; */
+                   color: #fff;
+                   margin: -28px 0 0 25px;
+                   top: 471px;
+                   position: absolute;
+                 }
+                 .fieldLabel6{
+                  display: inline-block;
+                     width: 99%;
+                     font-weight: bold;
+                     /* text-align: right; */
+                     color: #fff;
+                     margin: -28px 0 0 25px;
+                     top: 551px;
+                     position: absolute;
+                   }
+
+                   .MsgBox
+{
+  display: inline-block;
+  width: 58%;
+  margin-left: 151px;
+  margin-top: 75px;
+}
