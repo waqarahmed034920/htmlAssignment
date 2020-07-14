@@ -91,7 +91,7 @@ body
                }
                
                input {
-                 width: 80px;
+                 width: 64px;
                }
 
                select
@@ -130,4 +130,16 @@ body
   width: 58%;
   margin-left: 151px;
   margin-top: 75px;
+}
+
+.Btn
+{
+width:303px;	
+height:30px;
+background-color:#a25cc6;
+color:#fff;
+border:none;
+border-radius:8px;
+border-bottom:3px solid #036;
+margin: 66px 0 0 203px;
 }
